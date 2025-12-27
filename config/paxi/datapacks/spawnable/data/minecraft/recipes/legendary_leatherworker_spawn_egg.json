@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "EGE",
+    "EEE"
+  ],
+  "key": {
+    "G": { "item": "minecraft:villager_spawn_egg" },
+    "E": { "item": "minecraft:cauldron" }
+  },
+  "result": {
+    "item": "minecraft:villager_spawn_egg",
+    "count": 1,
+    "nbt": "{display:{Name:'{\"text\":\"전설 가죽 세공인\",\"color\":\"gold\",\"italic\":false,\"bold\":true}'},EntityTag:{VillagerData:{profession:\"minecraft:leatherworker\",level:5},Xp:1500,Offers:{Recipes:[{buy:{id:\"minecraft:leather\",Count:1},sell:{id:\"minecraft:emerald\",Count:1},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:1},sell:{id:\"minecraft:leather\",Count:1},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:1},sell:{id:\"minecraft:saddle\",Count:1},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:4},sell:{id:\"minecraft:leather_horse_armor\",Count:1,tag:{Enchantments:[{id:\"minecraft:protection\",lvl:4},{id:\"minecraft:unbreaking\",lvl:3},{id:\"minecraft:mending\",lvl:1}]}},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:6},sell:{id:\"minecraft:iron_horse_armor\",Count:1,tag:{Enchantments:[{id:\"minecraft:protection\",lvl:4},{id:\"minecraft:unbreaking\",lvl:3},{id:\"minecraft:mending\",lvl:1}]}},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:6},sell:{id:\"minecraft:golden_horse_armor\",Count:1,tag:{Enchantments:[{id:\"minecraft:protection\",lvl:4},{id:\"minecraft:unbreaking\",lvl:3},{id:\"minecraft:mending\",lvl:1}]}},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:8},sell:{id:\"minecraft:diamond_horse_armor\",Count:1,tag:{Enchantments:[{id:\"minecraft:protection\",lvl:4},{id:\"minecraft:unbreaking\",lvl:3},{id:\"minecraft:mending\",lvl:1}]}},maxUses:9999999}]}}}"
+  }
+}

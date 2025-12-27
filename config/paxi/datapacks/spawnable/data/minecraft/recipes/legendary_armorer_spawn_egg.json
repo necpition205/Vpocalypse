@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "EGE",
+    "EEE"
+  ],
+  "key": {
+    "G": { "item": "minecraft:villager_spawn_egg" },
+    "E": { "item": "minecraft:blast_furnace" }
+  },
+  "result": {
+    "item": "minecraft:villager_spawn_egg",
+    "count": 1,
+    "nbt": "{display:{Name:'{\"text\":\"전설 갑옷 제조인\",\"color\":\"gold\",\"italic\":false,\"bold\":true}'},EntityTag:{VillagerData:{profession:\"minecraft:armorer\",level:5},Xp:1500,Offers:{Recipes:[{buy:{id:\"minecraft:emerald\",Count:16},sell:{id:\"minecraft:iron_helmet\",Count:1,tag:{Enchantments:[{id:\"minecraft:protection\",lvl:4},{id:\"minecraft:aqua_affinity\",lvl:1},{id:\"minecraft:respiration\",lvl:3},{id:\"minecraft:unbreaking\",lvl:3},{id:\"minecraft:mending\",lvl:1}]}},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:16},sell:{id:\"minecraft:iron_chestplate\",Count:1,tag:{Enchantments:[{id:\"minecraft:protection\",lvl:4},{id:\"minecraft:unbreaking\",lvl:3},{id:\"minecraft:mending\",lvl:1}]}},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:16},sell:{id:\"minecraft:iron_leggings\",Count:1,tag:{Enchantments:[{id:\"minecraft:protection\",lvl:4},{id:\"minecraft:unbreaking\",lvl:3},{id:\"minecraft:mending\",lvl:1}]}},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:16},sell:{id:\"minecraft:iron_boots\",Count:1,tag:{Enchantments:[{id:\"minecraft:protection\",lvl:4},{id:\"minecraft:feather_falling\",lvl:4},{id:\"minecraft:depth_strider\",lvl:3},{id:\"minecraft:unbreaking\",lvl:3},{id:\"minecraft:mending\",lvl:1}]}},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:32},sell:{id:\"minecraft:diamond_helmet\",Count:1,tag:{Enchantments:[{id:\"minecraft:protection\",lvl:4},{id:\"minecraft:aqua_affinity\",lvl:1},{id:\"minecraft:respiration\",lvl:3},{id:\"minecraft:unbreaking\",lvl:3},{id:\"minecraft:mending\",lvl:1}]}},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:32},sell:{id:\"minecraft:diamond_chestplate\",Count:1,tag:{Enchantments:[{id:\"minecraft:protection\",lvl:4},{id:\"minecraft:unbreaking\",lvl:3},{id:\"minecraft:mending\",lvl:1}]}},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:32},sell:{id:\"minecraft:diamond_leggings\",Count:1,tag:{Enchantments:[{id:\"minecraft:protection\",lvl:4},{id:\"minecraft:unbreaking\",lvl:3},{id:\"minecraft:mending\",lvl:1}]}},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:32},sell:{id:\"minecraft:diamond_boots\",Count:1,tag:{Enchantments:[{id:\"minecraft:protection\",lvl:4},{id:\"minecraft:feather_falling\",lvl:4},{id:\"minecraft:depth_strider\",lvl:3},{id:\"minecraft:unbreaking\",lvl:3},{id:\"minecraft:mending\",lvl:1}]}},maxUses:9999999}]}}}"
+  }
+}

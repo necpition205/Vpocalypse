@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "EGE",
+    "EEE"
+  ],
+  "key": {
+    "G": { "item": "minecraft:villager_spawn_egg" },
+    "E": { "item": "minecraft:brewing_stand" }
+  },
+  "result": {
+    "item": "minecraft:villager_spawn_egg",
+    "count": 1,
+    "nbt": "{display:{Name:'{\"text\":\"전설 성직자\",\"color\":\"gold\",\"italic\":false,\"bold\":true}'},EntityTag:{VillagerData:{profession:\"minecraft:cleric\",level:5},Xp:1500,Offers:{Recipes:[{buy:{id:\"minecraft:rotten_flesh\",Count:4},sell:{id:\"minecraft:emerald\",Count:1},maxUses:9999999},{buy:{id:\"minecraft:bone\",Count:2},sell:{id:\"minecraft:emerald\",Count:1},maxUses:9999999},{buy:{id:\"minecraft:gunpowder\",Count:2},sell:{id:\"minecraft:emerald\",Count:1},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:1},sell:{id:\"minecraft:bone\",Count:2},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:1},sell:{id:\"minecraft:gunpowder\",Count:2},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:1},sell:{id:\"minecraft:glowstone\",Count:1},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:4},sell:{id:\"minecraft:ender_pearl\",Count:1},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:1},sell:{id:\"minecraft:experience_bottle\",Count:1},maxUses:9999999}]}}}"
+  }
+}

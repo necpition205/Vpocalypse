@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_bars" }
+  },
+  "result": {
+    "item": "minecraft:spawner",
+    "count": 1
+  }
+}

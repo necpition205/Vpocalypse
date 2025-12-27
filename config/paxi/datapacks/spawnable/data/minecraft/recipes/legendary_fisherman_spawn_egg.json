@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "EGE",
+    "EEE"
+  ],
+  "key": {
+    "G": { "item": "minecraft:villager_spawn_egg" },
+    "E": { "item": "minecraft:barrel" }
+  },
+  "result": {
+    "item": "minecraft:villager_spawn_egg",
+    "count": 1,
+    "nbt": "{display:{Name:'{\"text\":\"전설 어부\",\"color\":\"gold\",\"italic\":false,\"bold\":true}'},EntityTag:{VillagerData:{profession:\"minecraft:fisherman\",level:5},Xp:1500,Offers:{Recipes:[{buy:{id:\"minecraft:cod\",Count:1},sell:{id:\"minecraft:emerald\",Count:1},maxUses:9999999},{buy:{id:\"minecraft:salmon\",Count:1},sell:{id:\"minecraft:emerald\",Count:1},maxUses:9999999},{buy:{id:\"minecraft:tropical_fish\",Count:1},sell:{id:\"minecraft:emerald\",Count:1},maxUses:9999999},{buy:{id:\"minecraft:pufferfish\",Count:1},sell:{id:\"minecraft:emerald\",Count:1},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:1},sell:{id:\"minecraft:cooked_cod\",Count:16},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:1},sell:{id:\"minecraft:cooked_salmon\",Count:16},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:1},sell:{id:\"minecraft:tropical_fish\",Count:1},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:1},sell:{id:\"minecraft:pufferfish\",Count:1},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:16},sell:{id:\"minecraft:fishing_rod\",Count:1,tag:{Enchantments:[{id:\"minecraft:luck_of_the_sea\",lvl:3},{id:\"minecraft:lure\",lvl:3},{id:\"minecraft:unbreaking\",lvl:3},{id:\"minecraft:mending\",lvl:1}]}},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:16},sell:{id:\"minecraft:fishing_rod\",Count:1,tag:{Enchantments:[{id:\"minecraft:knockback\",lvl:10},{id:\"minecraft:unbreaking\",lvl:3},{id:\"minecraft:mending\",lvl:1}]}},maxUses:9999999}]}}}"
+  }
+}

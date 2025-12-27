@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "EGE",
+    "EEE"
+  ],
+  "key": {
+    "G": { "item": "minecraft:villager_spawn_egg" },
+    "E": { "item": "minecraft:diamond" }
+  },
+  "result": {
+    "item": "minecraft:villager_spawn_egg",
+    "count": 1,
+    "nbt": "{display:{Name:'{\"text\":\"자원 보급관 생성알\",\"color\":\"gold\",\"italic\":false,\"bold\":true}'},EntityTag:{VillagerData:{profession:\"minecraft:cleric\",level:5,type:\"minecraft:plains\"},CustomName:'{\"text\":\"자원 보급관\",\"color\":\"gold\",\"bold\":true}',Offers:{Recipes:[{buy:{id:\"minecraft:emerald\",Count:2},sell:{id:\"minecraft:copper_ingot\",Count:1},maxUses:999999}, {buy:{id:\"minecraft:emerald\",Count:4},sell:{id:\"minecraft:iron_ingot\",Count:1},maxUses:999999}, {buy:{id:\"minecraft:emerald\",Count:8},sell:{id:\"minecraft:gold_ingot\",Count:1},maxUses:999999}, {buy:{id:\"minecraft:emerald\",Count:16},sell:{id:\"minecraft:diamond\",Count:1},maxUses:999999}, {buy:{id:\"minecraft:emerald\",Count:32},sell:{id:\"minecraft:netherite_scrap\",Count:1},maxUses:999999}, {buy:{id:\"minecraft:emerald\",Count:1},sell:{id:\"minecraft:coal\",Count:1},maxUses:999999}, {buy:{id:\"minecraft:emerald\",Count:2},sell:{id:\"minecraft:lapis_lazuli\",Count:1},maxUses:999999}, {buy:{id:\"minecraft:emerald\",Count:2},sell:{id:\"minecraft:redstone\",Count:1},maxUses:999999}, {buy:{id:\"minecraft:emerald\",Count:2},sell:{id:\"minecraft:amethyst_shard\",Count:1},maxUses:999999}]}}}"
+  }
+}

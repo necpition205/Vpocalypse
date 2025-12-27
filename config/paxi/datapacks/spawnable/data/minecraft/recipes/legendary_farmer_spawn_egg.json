@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "EGE",
+    "EEE"
+  ],
+  "key": {
+    "G": { "item": "minecraft:villager_spawn_egg" },
+    "E": { "item": "minecraft:composter" }
+  },
+  "result": {
+    "item": "minecraft:villager_spawn_egg",
+    "count": 1,
+    "nbt": "{display:{Name:'{\"text\":\"전설 농부\",\"color\":\"gold\",\"italic\":false,\"bold\":true}'},EntityTag:{VillagerData:{profession:\"minecraft:farmer\",level:5},Xp:1500,Offers:{Recipes:[{buy:{id:\"minecraft:wheat\",Count:1},sell:{id:\"minecraft:emerald\",Count:1},maxUses:999999}, {buy:{id:\"minecraft:potato\",Count:1},sell:{id:\"minecraft:emerald\",Count:1},maxUses:999999}, {buy:{id:\"minecraft:carrot\",Count:1},sell:{id:\"minecraft:emerald\",Count:1},maxUses:999999}, {buy:{id:\"minecraft:emerald\",Count:1},sell:{id:\"minecraft:bread\",Count:4},maxUses:999999}, {buy:{id:\"minecraft:emerald\",Count:1},sell:{id:\"minecraft:cookie\",Count:10},maxUses:999999}, {buy:{id:\"minecraft:emerald\",Count:1},sell:{id:\"minecraft:pumpkin_pie\",Count:1},maxUses:999999}, {buy:{id:\"minecraft:emerald\",Count:1},sell:{id:\"minecraft:pumpkin\",Count:2},maxUses:999999}, {buy:{id:\"minecraft:emerald\",Count:1},sell:{id:\"minecraft:melon\",Count:2},maxUses:999999}, {buy:{id:\"minecraft:emerald\",Count:1},sell:{id:\"minecraft:apple\",Count:4},maxUses:999999}, {buy:{id:\"minecraft:emerald\",Count:1},sell:{id:\"minecraft:golden_carrot\",Count:2},maxUses:999999}, {buy:{id:\"minecraft:emerald\",Count:4},sell:{id:\"minecraft:golden_apple\",Count:1},maxUses:999999}, {buy:{id:\"minecraft:emerald\",Count:16},sell:{id:\"minecraft:enchanted_golden_apple\",Count:1},maxUses:999999}]}}}"
+  }
+}

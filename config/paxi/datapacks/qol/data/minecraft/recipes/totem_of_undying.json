@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MEM",
+    "EGE",
+    "MEM"
+  ],
+  "key": {
+    "G": { "item": "minecraft:gold_block" },
+    "E": { "item": "minecraft:echo_shard" },
+    "M": { "item": "minecraft:emerald" }
+  },
+  "result": {
+    "item": "minecraft:totem_of_undying",
+    "count": 1
+  }
+}

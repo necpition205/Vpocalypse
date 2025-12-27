@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "tacz:ammo"
+    },
+    "B": {
+      "item": "tacz:ammo_box"
+    }
+  },
+  "result": {
+    "item": "tacz:ammo_box",
+    "count": 1,
+    "nbt": "{Creative:1b}"
+  }
+}

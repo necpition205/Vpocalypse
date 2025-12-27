@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "EGE",
+    "EEE"
+  ],
+  "key": {
+    "G": { "item": "minecraft:villager_spawn_egg" },
+    "E": { "item": "minecraft:smithing_table" }
+  },
+  "result": {
+    "item": "minecraft:villager_spawn_egg",
+    "count": 1,
+    "nbt": "{display:{Name:'{\"text\":\"전설 도구 대장장이\",\"color\":\"gold\",\"italic\":false,\"bold\":true}'},EntityTag:{VillagerData:{profession:\"minecraft:toolsmith\",level:5},Xp:1500,Offers:{Recipes:[{buy:{id:\"minecraft:emerald\",Count:16},sell:{id:\"minecraft:iron_pickaxe\",Count:1,tag:{Enchantments:[{id:\"minecraft:efficiency\",lvl:5},{id:\"minecraft:fortune\",lvl:3},{id:\"minecraft:unbreaking\",lvl:3},{id:\"minecraft:mending\",lvl:1}]}},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:16},sell:{id:\"minecraft:iron_axe\",Count:1,tag:{Enchantments:[{id:\"minecraft:efficiency\",lvl:5},{id:\"minecraft:fortune\",lvl:3},{id:\"minecraft:unbreaking\",lvl:3},{id:\"minecraft:mending\",lvl:1}]}},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:16},sell:{id:\"minecraft:iron_shovel\",Count:1,tag:{Enchantments:[{id:\"minecraft:efficiency\",lvl:5},{id:\"minecraft:fortune\",lvl:3},{id:\"minecraft:unbreaking\",lvl:3},{id:\"minecraft:mending\",lvl:1}]}},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:32},sell:{id:\"minecraft:diamond_pickaxe\",Count:1,tag:{Enchantments:[{id:\"minecraft:efficiency\",lvl:5},{id:\"minecraft:fortune\",lvl:3},{id:\"minecraft:unbreaking\",lvl:3},{id:\"minecraft:mending\",lvl:1}]}},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:32},sell:{id:\"minecraft:diamond_pickaxe\",Count:1,tag:{Enchantments:[{id:\"minecraft:efficiency\",lvl:5},{id:\"minecraft:silk_touch\",lvl:1},{id:\"minecraft:unbreaking\",lvl:3},{id:\"minecraft:mending\",lvl:1}]}},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:32},sell:{id:\"minecraft:diamond_axe\",Count:1,tag:{Enchantments:[{id:\"minecraft:efficiency\",lvl:5},{id:\"minecraft:fortune\",lvl:3},{id:\"minecraft:unbreaking\",lvl:3},{id:\"minecraft:mending\",lvl:1}]}},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:32},sell:{id:\"minecraft:diamond_shovel\",Count:1,tag:{Enchantments:[{id:\"minecraft:efficiency\",lvl:5},{id:\"minecraft:fortune\",lvl:3},{id:\"minecraft:unbreaking\",lvl:3},{id:\"minecraft:mending\",lvl:1}]}},maxUses:9999999}]}}}"
+  }
+}

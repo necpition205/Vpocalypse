@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RRR",
+    "RER",
+    "RRR"
+  ],
+  "key": {
+    "E": { "item": "minecraft:villager_spawn_egg" },
+    "R": { "item": "minecraft:rotten_flesh" }
+  },
+  "result": {
+    "item": "minecraft:villager_spawn_egg",
+    "count": 1,
+    "nbt": "{display:{Name:'{\"text\":\"야전 의무병 생성알\",\"color\":\"red\",\"italic\":false,\"bold\":true}'},EntityTag:{VillagerData:{profession:\"minecraft:cleric\",level:5,type:\"minecraft:plains\"},CustomName:'{\"text\":\"야전 의무병\",\"color\":\"red\",\"bold\":true}',Offers:{Recipes:[{buy:{id:\"minecraft:emerald\",Count:8},sell:{id:\"minecraft:splash_potion\",Count:1,tag:{Potion:\"minecraft:strong_healing\"}},maxUses:999999}, {buy:{id:\"minecraft:emerald\",Count:40},sell:{id:\"minecraft:splash_potion\",Count:1,tag:{CustomPotionEffects:[{Id:10,Amplifier:3,Duration:12000}]}},maxUses:999999}, {buy:{id:\"minecraft:emerald\",Count:12},sell:{id:\"minecraft:splash_potion\",Count:1,tag:{CustomPotionEffects:[{Id:12,Amplifier:0,Duration:12000}]}},maxUses:999999}, {buy:{id:\"minecraft:emerald\",Count:50},sell:{id:\"minecraft:splash_potion\",Count:1,tag:{CustomPotionEffects:[{Id:11,Amplifier:3,Duration:12000}]}},maxUses:999999}]}}}"
+  }
+}

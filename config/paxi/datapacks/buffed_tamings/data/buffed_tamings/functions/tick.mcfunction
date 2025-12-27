@@ -1,0 +1,3 @@
+function buffed_tamings:buff_horse
+function buffed_tamings:buff_wolf
+function buffed_tamings:buff_villager

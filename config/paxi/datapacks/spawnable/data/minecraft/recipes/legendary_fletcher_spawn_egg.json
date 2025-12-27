@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "EEE",
+    "EGE",
+    "EEE"
+  ],
+  "key": {
+    "G": { "item": "minecraft:villager_spawn_egg" },
+    "E": { "item": "minecraft:fletching_table" }
+  },
+  "result": {
+    "item": "minecraft:villager_spawn_egg",
+    "count": 1,
+    "nbt": "{display:{Name:'{\"text\":\"전설 화살 제조인\",\"color\":\"gold\",\"italic\":false,\"bold\":true}'},EntityTag:{VillagerData:{profession:\"minecraft:fletcher\",level:5},Xp:1500,Offers:{Recipes:[{buy:{id:\"minecraft:emerald\",Count:1},sell:{id:\"minecraft:arrow\",Count:32},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:2},sell:{id:\"minecraft:spectral_arrow\",Count:32},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:1},sell:{id:\"minecraft:firework_rocket\",Count:16},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:32},sell:{id:\"minecraft:bow\",Count:1,tag:{Enchantments:[{id:\"minecraft:power\",lvl:5},{id:\"minecraft:punch\",lvl:2},{id:\"minecraft:flame\",lvl:1},{id:\"minecraft:infinity\",lvl:1},{id:\"minecraft:unbreaking\",lvl:3},{id:\"minecraft:mending\",lvl:1}]}},maxUses:9999999},{buy:{id:\"minecraft:emerald\",Count:32},sell:{id:\"minecraft:crossbow\",Count:1,tag:{Enchantments:[{id:\"minecraft:piercing\",lvl:4},{id:\"minecraft:quick_charge\",lvl:3},{id:\"minecraft:multishot\",lvl:1},{id:\"minecraft:unbreaking\",lvl:3},{id:\"minecraft:mending\",lvl:1}]}},maxUses:9999999}]}}}"
+  }
+}

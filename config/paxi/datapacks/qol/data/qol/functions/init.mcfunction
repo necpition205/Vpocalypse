@@ -1,0 +1,3 @@
+gamerule randomTickSpeed 30
+gamerule sendCommandFeedback false
+gamerule keepInventory true

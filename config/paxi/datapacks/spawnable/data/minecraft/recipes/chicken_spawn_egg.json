@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "IEI",
+    "III"
+  ],
+  "key": {
+    "I": { "item": "minecraft:feather" },
+    "E": { "item": "minecraft:egg" }
+  },
+  "result": {
+    "item": "minecraft:chicken_spawn_egg",
+    "count": 1
+  }
+}
