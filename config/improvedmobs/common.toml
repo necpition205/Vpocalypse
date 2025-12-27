@@ -136,13 +136,13 @@
 	Sound = true
 	#Chance for a mob to be able to break blocks
 	#Range: 0.0 ~ 1.0
-	"Breaker Chance" = 0.5
+	"Breaker Chance" = 0.0
 	#Initial cooldown for block breaking mobs
 	#Range: > 0
-	"Breaker Initial Cooldown" = 120
+	"Breaker Initial Cooldown" = 120000
 	#Cooldown for breaking blocks
 	#Range: > 0
-	"Breaker Cooldown" = 20
+	"Breaker Cooldown" = 20000
 	#By default mobs can only break the block they can harvest with the current tool they holding. Set this to true to disable that check (The block will not drop if they cant harvest it though!).
 	"Ignore Harvest Check" = false
 	#Blocks will be restored after x ticks being broken. If set to 0 will never restore
@@ -153,7 +153,7 @@
 	"Idle Break" = false
 	#Chance a breaker mob to ignore line of sight
 	#Range: 0.0 ~ 1.0
-	"Breaker Sight Ignore" = 0.5
+	"Breaker Sight Ignore" = 0.0
 	#A modifier to the breaking speed
 	#Range: 0.0 ~ 1.7976931348623157E308
 	"Breaking Speed Base" = 1.0

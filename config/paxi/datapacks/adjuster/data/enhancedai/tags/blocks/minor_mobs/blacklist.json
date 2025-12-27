@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:bricks",
+    "minecraft:oak_slab",
+    "minecraft:oak_stairs",
+    "minecraft:oak_trapdoor",
+    "minecraft:iron_block",
+    "minecraft:netherite_block",
+    "minecraft:obsidian",
+    "minecraft:crying_obsidian",
+    "minecraft:bedrock",
+    "minecraft:chest",
+    "minecraft:ender_chest",
+    "minecraft:crafting_table",
+    "minecraft:furnace"
+  ]
+}
