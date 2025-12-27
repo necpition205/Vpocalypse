@@ -10,6 +10,22 @@
 - [InsaneLib](https://www.curseforge.com/minecraft/mc-mods/insanelib/download/7384097)
 - [Balanced Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/differently-balanced-explorers-compass/download/5221163)
 
+## 클라이언트 권장 설치 모드 (mods/ 폴더에 모두 배치)
+
+### 유틸리티
+- [JEI](https://www.curseforge.com/minecraft/mc-mods/jei/download/7361881) - 조합법 찾기
+- [Neat](https://www.curseforge.com/minecraft/mc-mods/neat/download/5838485) - 몹 체력바 표기
+
+### 셰이더
+- [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus/download/6020952) - 셰이더 로더 (Iris Fork)
+- [Embeddium](https://www.curseforge.com/minecraft/mc-mods/embeddium/download/5681725) - 셰이더 성능 최적화 (Sodium Fork)
+
+### 최적화
+- [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight-forge/download/4631193) - 빛계산 최적화
+- [Canary](https://www.curseforge.com/minecraft/mc-mods/canary/download/5089991) - 성능 최적화 (Lithium Fork)
+- [ModernFix](https://www.curseforge.com/minecraft/mc-mods/modernfix/download/7306749) - 버그픽스 & 메모리 최적화
+- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore/download/4810975) - 메모리 최적화, ModernFix API 의존성
+
 ## 서버 구동 전 준비
 1. 자바 17 이상 설치.
 2. Forge 1.20.1 서버 파일 다운로드 후 압축 해제.
