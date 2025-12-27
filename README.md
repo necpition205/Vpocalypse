@@ -12,7 +12,7 @@
 
 ## 클라이언트 권장 설치 모드 (mods/ 폴더에 모두 배치)
 
-## 유틸리티
+### 유틸리티
 - [JEI](https://www.curseforge.com/minecraft/mc-mods/jei/download/7361881) - 조합법 찾기
 - [Neat](https://www.curseforge.com/minecraft/mc-mods/neat/download/5838485) - 몹 체력바 표기
 
