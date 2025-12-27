@@ -8,6 +8,7 @@
 - [Easy Anvils](https://www.curseforge.com/minecraft/mc-mods/easy-anvils/download/5156621)
 - [Enhanced AI](https://www.curseforge.com/minecraft/mc-mods/enhanced-ai/download/7360784)
 - [InsaneLib](https://www.curseforge.com/minecraft/mc-mods/insanelib/download/7384097)
+- [Balanced Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/differently-balanced-explorers-compass/download/5221163)
 
 ## 서버 구동 전 준비
 1. 자바 17 이상 설치.
