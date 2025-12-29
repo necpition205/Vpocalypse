@@ -1,0 +1,11 @@
+.git
+.github
+crash-reports
+logs
+world*
+*.log
+*.tmp
+*.bak
+*.sh~
+*.bat~
+*.zip

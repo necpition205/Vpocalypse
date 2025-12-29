@@ -1,0 +1,17 @@
+version: "3.9"
+
+services:
+  vpocalypse:
+    build:
+      context: .
+      args:
+        EULA: "true"
+    image: vpocalypse:latest
+    container_name: vpocalypse
+    ports:
+      - "25565:25565"
+    environment:
+      - JVM_OPTS=-Xms2G -Xmx4G
+    volumes:
+      - ./data:/server
+    restart: unless-stopped
