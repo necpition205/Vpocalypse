@@ -16,5 +16,6 @@ ENV JVM_OPTS="-Xms2G -Xmx4G"
 # Expose default Minecraft port
 EXPOSE 25565
 
-# Run Forge server using provided args list
-CMD java $JVM_OPTS @user_jvm_args.txt @libraries/net/minecraftforge/forge/1.20.1-47.4.13/unix_args.txt nogui
+# Entrypoint script with explicit execute permission for Railway
+COPY --chmod=755 entrypoint.sh /server/entrypoint.sh
+ENTRYPOINT ["/server/entrypoint.sh"]
