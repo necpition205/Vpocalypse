@@ -2,10 +2,7 @@ FROM eclipse-temurin:17-jre-jammy
 
 WORKDIR /server
 
-# Install libfreetype6 for some mods that require font rendering dependencies
-RUN apt-get update && apt-get install -y --no-install-recommends libfreetype6 && rm -rf /var/lib/apt/lists/*
-
-# Copy server files
+# Copy server files (no extra packages; keeps Railway-friendly)
 COPY . .
 
 # Ensure EULA is accepted (override with build-arg if needed)
