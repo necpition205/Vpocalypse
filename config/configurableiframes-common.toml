@@ -29,11 +29,11 @@ ignore = ["bestmod:cool_damage"]
 #
 # Player takes most forms of direct mob melee damage
 #Range: 0 ~ 20
-playerFromMob = 10
+playerFromMob = 20
 #
 # Player damaged by another player
 #Range: 0 ~ 20
-playerFromPlayer = 10
+playerFromPlayer = 20
 #
 # Player takes damage from the Warden's ranged attack
 #Range: 0 ~ 20
@@ -61,31 +61,31 @@ playerCactus = 20
 #
 # Player collides with world (fall damage, fly into wall, blocks fall on them)
 #Range: 0 ~ 20
-playerWorldImpact = 10
+playerWorldImpact = 20
 #
 # Player hit by a projectile (arrow, trident, fireball etc)
 #Range: 0 ~ 20
-playerFromProjectile = 10
+playerFromProjectile = 20
 #
 # Misc meta sources (e.g. server commands or custom packets. Mods may use this.)
 #Range: 0 ~ 20
-playerGeneric = 10
+playerGeneric = 20
 #
 # Player takes game meta damage (out of world, out of world border, bad respawn)
 #Range: 0 ~ 20
-playerMeta = 10
+playerMeta = 20
 #
 # Player takes instant damage from a potion or similar
 #Range: 0 ~ 20
-playerIndirectMagic = 1
+playerIndirectMagic = 20
 #
 # Player is hit by an explosion
 #Range: 0 ~ 20
-playerExplosion = 1
+playerExplosion = 20
 #
 # Player is hit by firework
 #Range: 0 ~ 20
-playerFireworks = 1
+playerFireworks = 20
 #
 # Player takes thorns damage (guardian recoil, armour enchantment)
 #Range: 0 ~ 20
@@ -93,7 +93,7 @@ playerThorns = 20
 #
 # Player is hit by lightning
 #Range: 0 ~ 20
-playerLightning = 10
+playerLightning = 20
 #
 # Mob takes most forms of direct mob melee damage
 #Range: 0 ~ 20
