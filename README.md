@@ -9,6 +9,7 @@
 - [Enhanced AI](https://www.curseforge.com/minecraft/mc-mods/enhanced-ai/download/7360784)
 - [InsaneLib](https://www.curseforge.com/minecraft/mc-mods/insanelib/download/7384097)
 - [Balanced Explorer's Compass](https://www.curseforge.com/minecraft/mc-mods/differently-balanced-explorers-compass/download/5221163)
+- [Stackable Items](https://www.curseforge.com/minecraft/mc-mods/stackable-items/download/6559769)
 
 ## 클라이언트 권장 설치 모드 (mods/ 폴더에 모두 배치)
 
